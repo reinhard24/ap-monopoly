@@ -1,2 +1,2 @@
 # ap-monopoly
-Advanced Programming Assignment - Monopoly / GET RICH Game
+Advanced Programming Assignment - Monopoly / LINE Get Rich Game
